@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Chinh</h1>
-<h3 align="center">A student from VNU University of Engineering and Technology</h3>
+<h1 align="left">Hi 👋, I'm Chinh</h1>
+<h3 align="left">A student from VNU University of Engineering and Technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=buicaochinh&label=Profile%20views&color=0e75b6&style=flat" alt="buicaochinh" /> </p>
 
